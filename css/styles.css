@@ -549,15 +549,21 @@ img {
 .modal-btn {
     border-radius: 100%;
     border: none;
+    padding: 0;
     background-color: #E7E9FC;
     width: 28px;
     height: 28px;
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    
 }
 
 .modal-btn-icon {
     width: 8px;
     height: 8px;
     fill: #2E2F42;
+    
 }
 
 
