@@ -521,6 +521,11 @@ img {
 
 /* ========================== Футер ДЗ 5 ============================================= */
 
+.subscribe {
+    margin-left: 80px;
+}
+
+
 .subscribe-text {
     margin-bottom: 16px; 
     font-weight: 500;
