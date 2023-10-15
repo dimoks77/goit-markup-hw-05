@@ -714,7 +714,7 @@ img {
 
 }
 
-.check-input:checked + .check-span.span {
+.check-input:checked + .check-span span {
     background-color:#404bbf;
     border: none;
     fill: #F4F4FD;
