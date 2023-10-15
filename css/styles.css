@@ -711,6 +711,10 @@ img {
 
 }
 
+check-input:checked {
+
+}
+
 .check-text {
     font-size: 12px;
     line-height: 1.17; 
