@@ -521,7 +521,7 @@ img {
 
 /* ========================== Футер ДЗ 5 ============================================= */
 
-.subsсribe-text {
+.subscribe-text {
     margin-bottom: 16px; 
     font-weight: 500;
     font-size: 16px;
@@ -530,12 +530,12 @@ img {
     color: #ffffff;   
 }
 
-.subsсribe-form {
+.subscribe-form {
     display: flex; 
     gap: 24px;
 }
 
-.subsсribe-input {
+.subscribe-input {
     width: 264px;
     height: 40px; 
     border: 1px solid #ffffff;
@@ -549,11 +549,11 @@ img {
     color: #ffffff;
 }
 
-.subsсribe-input::placeholder {
+.subscribe-input::placeholder {
     color: #ffffff;    
 }
 
-.subsсribe-btn {
+.subscribe-btn {
     min-width: 165px;
     height: 40px;
     display: flex;
@@ -571,7 +571,7 @@ img {
     border-radius: 4px;
 }
 
-.subsсribe-icon {
+.subscribe-icon {
     margin-left: 16px;
 }
 
