@@ -710,9 +710,6 @@ img {
     border: 1px solid #4D5AE5;
 }
 
-.check-input {
-
-}
 
 .check-input:checked + .check-span {
     background-color:#404bbf;
