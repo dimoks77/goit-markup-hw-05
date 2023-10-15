@@ -707,6 +707,15 @@ img {
     border: 1px solid #4D5AE5;
 }
 
+.check-input {
+
+}
+
+.check-text {
+    
+}
+
+
 .is-open {
     opacity: 1;
     visibility: visible;
