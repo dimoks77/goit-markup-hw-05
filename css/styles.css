@@ -613,6 +613,7 @@ img {
     border: 1px solid var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
     background-color: transparent;
     margin-bottom: 8px;
+    padding-left: 38px;
 }
 
 .modal-input:hover+.modal-icon,
